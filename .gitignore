@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 输出和临时文件
+output/
+temp/
+
+# 视频文件
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.aac
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
